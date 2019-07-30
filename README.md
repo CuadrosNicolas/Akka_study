@@ -16,8 +16,8 @@ reproductions.
 
 ## How to use
 
-First you need to initialize the ScrapyScrap project, for this see the README.md
-file under the ScrapyScrap folder.
+First you need to initialize the scraping project, for this see the README.md
+file under the scraping folder.
 
 Next you need to make the reproduction script executable :
 
